@@ -1,7 +1,7 @@
 # Olá, eu sou a Rafaela! 👋
 
 ### 📚 Sobre mim
-- **Curso:** 1º Semestre de Ciência da Computação. (CC1TA)
+- **Curso:** 2º Semestre de Ciência da Computação. 
 - **Interesses:** Tenho muito interesse nas áreas de **Inteligência Artificial**, **Programação**, **Redes** e **Dados**.
 
 ### 🎯 Objetivo para este semestre
